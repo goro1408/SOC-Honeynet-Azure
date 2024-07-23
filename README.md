@@ -22,3 +22,4 @@ This project implements a Security Operations Center (SOC) and a Honeynet in Mic
 
 ## Contributing
 Contributions are welcome. Please fork the repository and submit a pull request.
+
