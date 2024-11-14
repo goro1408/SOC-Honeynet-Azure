@@ -2,6 +2,8 @@
 
 This project implements a Security Operations Center (SOC) and a Honeynet in Microsoft Azure to monitor, detect, and analyze cybersecurity threats.
 
+![SOC and Honeynet Deployment Diagram](https://github.com/goro1408/SOC-Honeynet-Azure/blob/main/image_2024-11-13_230824208.png)
+
 ## Objectives
 - Set up a honeynet to attract and analyze cyber attacks.
 - Implement a SOC using Azure Sentinel for log collection, analysis, and incident response.
